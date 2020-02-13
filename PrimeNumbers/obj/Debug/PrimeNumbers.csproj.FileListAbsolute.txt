@@ -1,0 +1,5 @@
+/Users/basak.serit/Test Projects/PrimeNumbers/PrimeNumbers/bin/Debug/PrimeNumbers.exe
+/Users/basak.serit/Test Projects/PrimeNumbers/PrimeNumbers/bin/Debug/PrimeNumbers.pdb
+/Users/basak.serit/Test Projects/PrimeNumbers/PrimeNumbers/obj/Debug/PrimeNumbers.csprojAssemblyReference.cache
+/Users/basak.serit/Test Projects/PrimeNumbers/PrimeNumbers/obj/Debug/PrimeNumbers.exe
+/Users/basak.serit/Test Projects/PrimeNumbers/PrimeNumbers/obj/Debug/PrimeNumbers.pdb
